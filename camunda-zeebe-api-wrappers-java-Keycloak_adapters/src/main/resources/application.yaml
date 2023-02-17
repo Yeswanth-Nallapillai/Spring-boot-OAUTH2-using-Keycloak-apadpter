@@ -1,0 +1,9 @@
+users:
+   - username: demo
+     password: demo
+     roles:
+       - USER
+   - username: admin
+     password: admin
+     roles:
+       - ADMIN
